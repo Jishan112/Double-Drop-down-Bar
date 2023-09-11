@@ -119,8 +119,13 @@ display: block;
 }
 .down1:hover .d1contents{
     display: block;
+    position: absolute;
 
 
+
+}
+.down1{
+      position: absolute;
 
 }
 .d1contents{
@@ -143,5 +148,7 @@ display: block;
 }
 .down1:hover .d2contents{
     display: block;
+      position: absolute;
+
    
 }
